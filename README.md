@@ -1,3 +1,3 @@
 # Test
-For testing purposes only
-Tuomas  
+For testing purpose
+Tuomas 
